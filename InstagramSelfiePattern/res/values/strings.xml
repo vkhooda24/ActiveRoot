@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iSelfie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- App hard code data -->
+    <string name="username"><b>Username: </b></string>
+    <string name="loadingphotos"><b>Please wait...Loading photos with #selfie</b></string>
+    <string name="internetnotavailbale">Internet connection not available.</string>
+    <string name="tagdataempty">Photos not available for tag #Selfie.</string>
+    <string name="smallbutton">Small</string>
+    <string name="mediumbutton">Medium</string>
+    <string name="bigbutton">Big</string>
+
+</resources>
