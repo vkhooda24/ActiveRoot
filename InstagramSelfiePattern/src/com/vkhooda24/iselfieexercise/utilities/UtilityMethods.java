@@ -18,8 +18,10 @@ import android.os.StrictMode;
 
 
 /**
- * File Info:- File Name : UtilityMethods.java Created By : VK Hooda Date :
- * 16-Dec-2014 About File :
+ * File Info:- File Name : UtilityMethods.java 
+ * Created By : VK Hooda 
+ * Date : 24-Dec-2014 
+ * About File :
  */
 
 @SuppressLint("NewApi")

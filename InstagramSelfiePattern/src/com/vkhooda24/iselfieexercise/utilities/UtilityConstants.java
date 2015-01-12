@@ -4,7 +4,7 @@ package com.vkhooda24.iselfieexercise.utilities;
  * File Info:-
  * File Name	: AppConstants.java
  * Created By	: VK Hooda
- * Date			: 16-Dec-2014
+ * Date			: 24-Dec-2014
  * About File	: 
  */
 

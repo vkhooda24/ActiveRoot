@@ -4,7 +4,7 @@ package com.vkhooda24.iselfieexercise;
  * File Info:-
  * File Name	: SelfieActivity.java
  * Created By	: VK Hooda
- * Date			: 16-Dec-2014
+ * Date			: 24-Dec-2014
  * About File	: Get Selfie list and Enlarge Image on tap
  */
 
@@ -126,7 +126,6 @@ public class SelfieActivity extends FragmentActivity{
 				statusTextView.setText(R.string.tagdataempty);
 			}else
 			{
-				if (selfieDataList.size()>0) 
 					new PhotoLoadTask().execute();
 			}
 		}
@@ -167,7 +166,7 @@ public class SelfieActivity extends FragmentActivity{
 			return bitmap;
 		}
 	}
-	
+	 
 	OnTouchListener tapToEnlargePhoto = new OnTouchListener() {
 		
 		@Override

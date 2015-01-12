@@ -6,7 +6,7 @@ import android.graphics.Bitmap;
  * File Info:-
  * File Name	: SelfieData.java
  * Created By	: VK Hooda
- * Date			: 16-Dec-2014
+ * Date			: 24-Dec-2014
  * About File	: 
  */
 
